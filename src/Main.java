@@ -8,5 +8,6 @@ public class Main {
         System.out.println("eighth line");
         System.out.println("seventh line");
         System.out.println("ninth line");
+        System.out.println("tenth line");
     }
 }
