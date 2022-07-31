@@ -5,6 +5,5 @@ public class Main {
         System.out.println("fourth line");
         System.out.println("add master line");
         System.out.println("sixth line");
-        System.out.println("eighth line");
     }
 }
