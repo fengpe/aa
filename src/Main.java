@@ -1,9 +1,6 @@
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("你好，世界");
-        System.out.println("fourth line");
-        System.out.println("add master line");
-        System.out.println("sixth line");
+        System.out.println("测试修改同类不同方法修改");
     }
 }
