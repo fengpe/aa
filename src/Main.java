@@ -10,4 +10,8 @@ public class Main {
         System.out.println("ninth line");
         System.out.println("tenth line");
     }
+
+    public void test(String message){
+        System.out.println(message);
+    }
 }
